@@ -1,2 +1,2 @@
 # Explore-Web-Dark
-sample code while learning web Development
+sample codes while learning web Development
